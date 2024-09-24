@@ -18,7 +18,8 @@ This repository contains information, documentation, and additional resources ab
 
 ## Who is putting all this cool stuff together?
 
-* [Chris Banwarth](https://github.com/APrettyCoolProgram)
+* [Chris Banwarth](https://github.com/APrettyCoolProgram)  
+  Application Integration Architect at [Spectrum Health Systems](https://www.spectrumhealthsystems.org/)
 
 * [Chris Muhleisen](URL)
 
