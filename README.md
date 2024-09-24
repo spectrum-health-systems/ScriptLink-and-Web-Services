@@ -18,7 +18,7 @@ This repository contains information, documentation, and additional resources ab
 
 ## Who is putting all this cool stuff together?
 
-* [Chris Banwarth](test)
+* [Chris Banwarth](https://github.com/APrettyCoolProgram)
 
 * [Chris Muhleisen](URL)
 
