@@ -21,7 +21,7 @@ This repository contains information, documentation, and additional resources ab
 * [Chris Banwarth](https://github.com/APrettyCoolProgram)  
   Application Integration Architect at [Spectrum Health Systems](https://www.spectrumhealthsystems.org/)
 
-* [Chris Muhleisen](URL)
+* [Chris M.](URL)
 
 # What's here?
 
