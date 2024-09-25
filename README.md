@@ -25,4 +25,8 @@ This repository contains information, documentation, and additional resources ab
 
 # What's here?
 
+Not much, more soon.
+
+For now, check out this video series that covers creating your own Avatar custom web service using .NET Core:
+
 https://www.youtube.com/playlist?list=PL8ACjh0tRO8OK4bRnwSe0vq5eOQ0fYd2u
